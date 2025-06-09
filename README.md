@@ -46,5 +46,5 @@ Encadré par Thibault D'heilly, enseignant en informatique.
 
 ### 🧰 Technologies utilisées
 - Python 3 (Google Colab)
-- `pandas`, `matplotlib`, `time`
+- `pandas`, `matplotlib`, `time`, `random`, `math`
 
